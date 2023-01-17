@@ -61,13 +61,13 @@ console.log(!isChecked || isClosed);
 // я хочу купити гамбургер та картоплю, якщо обидва товари є у наявності я їх купую і буду ситим.
 
 let hamburger = true;
-let fries = true;
+let friess = true;
 
-if(hamburger && fries){
+if(hamburger && friess){
     console.log('я наївся')
 }
 
-console.log(hamburger && fries)
+console.log(hamburger && friess)
 
 
 let hamburger2 = 5;
